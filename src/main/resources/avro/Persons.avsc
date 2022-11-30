@@ -1,0 +1,27 @@
+{
+	"type": "record",
+	"namespace": "com.jalexb.entities",
+	"name": "Persons",
+	"fields": [
+		{
+			"name": "Name",
+			"type": "string"
+		},
+		{
+			"name": "Age",
+			"type": "int"
+		},
+		{
+			"name": "Location",
+			"type": "string"
+		},
+		{
+			"name": "Notes",
+			"type": "string"
+		},
+		{
+			"name": "DateCreated",
+			"type": "string"
+		}
+	]
+}
